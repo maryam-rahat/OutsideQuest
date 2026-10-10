@@ -1,6 +1,4 @@
 # OutsideQuest
-# Touch Grass
-
 A 70s-arcade-style desktop game that sends you outside on photo missions and has a local AI judge your snap.
 
 Press one button, get a weather-aware mission, go complete it, snap a photo, and watch a vision model react to the real world. Build a daily streak.
